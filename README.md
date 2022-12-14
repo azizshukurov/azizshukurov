@@ -18,7 +18,7 @@
 <a href="https://t.me/azizbekshukurov" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Telegram_X_2019_Logo.svg" alt="azizbekshukurov" height="30" width="40" /></a>
 <a href="https://twitter.com/azizbekshukur0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azizbekshukur0v" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/azizbekshukurov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azizbekshukurov" height="30" width="40" /></a>
-<a href="https://instagram.com/azizbekshukur0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azizbekshukur0v" height="30" width="40" /></a>
+<a href="https://instagram.com/azizshukur0v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azizbekshukur0v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages, Frameworks and Libraries:</h3>
