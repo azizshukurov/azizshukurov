@@ -45,8 +45,8 @@
  <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/></a>
 </p>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbekshukurov&show_icons=true&locale=en&layout=compact" alt="azizbekshukurov" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizbekshukurov&show_icons=true&locale=en&layout=compact" alt="azizshukurov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbekshukurov&show_icons=true&locale=en" alt="azizbekshukurov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizshukurov&show_icons=true&locale=en" alt="azizshukurov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizbekshukurov&" alt="azizbekshukurov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azizshukurov&" alt="azizshukurov" /></p>
