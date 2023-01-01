@@ -6,7 +6,7 @@
 - 💻 I’m currently learning JS, ReactJS
 - 💬 Ask me about web application.
 - ⚡ Fun fact I love learning programming.
-- 🥅 2022 Goals: Learn about JS/ReactJS.
+<!-- - 🥅 2023 Goals: Learn about JS/ReactJS. -->
 <!-- - 🤝 I’m looking for opportunities to collaborate with back-end developer. -->
 <!-- - 👨‍💻 All of my projects are available at [https://azizshukurov.uz](https://azizshukurov.uz) -->
 <!-- - 📫 How to reach me **azizbekshukurov11@gmail.com** -->
