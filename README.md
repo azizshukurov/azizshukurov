@@ -1,4 +1,4 @@
-<h1>Hi there, I'm <a href="https://azizshukurov.uz">Azizbek 👋</a></h1>
+<h1 align="center">Hi there, I'm <a href="https://azizshukurov.uz">Azizbek 👋</a></h1>
 <h3>I'm Front-end developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekshukurov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekshukurov" /> </p>
