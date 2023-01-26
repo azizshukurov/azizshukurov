@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://azizshukurov.uz">Azizbek 👋</a></h1>
-<h3>I'm Front-end developer.</h3>
+<h1>Hi there, I'm <a href="https://azizshukurov.uz">Azizbek 👋</a></h1>
+<h2>I'm Front-end developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekshukurov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekshukurov" /> </p>
 
@@ -42,7 +42,6 @@
     <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="vs code" width="40" height="40"/></a>
  <a href="https://www.powershellgallery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" alt="powershell" width="40" height="40"/></a>
       <a href="https://camo.githubusercontent.com/3f5dc7619716c35cc77371d51e577a656bd896f9fa8c98e6bcd92b6e7ac2c1c1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63302f57656253746f726d5f49636f6e2e7376672f3132303070782d57656253746f726d5f49636f6e2e7376672e706e67" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/3f5dc7619716c35cc77371d51e577a656bd896f9fa8c98e6bcd92b6e7ac2c1c1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63302f57656253746f726d5f49636f6e2e7376672f3132303070782d57656253746f726d5f49636f6e2e7376672e706e67" alt="web storm" width="40" height="40"/></a>
- <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="40" height="40"/></a>
 </p>
   
   
