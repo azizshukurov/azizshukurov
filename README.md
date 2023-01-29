@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizbekshukurov&label=Profile%20views&color=0e75b6&style=flat" alt="azizbekshukurov" /> </p>
 
 - 💻 I’m currently learning JS, ReactJS
-- 💬 Ask me about web application.- 
+- 💬 Ask me about web application.
 - ⚡ Fun fact, I love learning coding programming.
 <!-- - 🥅 2023 Goals: Learn about JS/ReactJS. -->
 <!-- - 🤝 I’m looking for opportunities to collaborate with back-end developer. -->
