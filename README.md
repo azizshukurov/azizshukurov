@@ -2,7 +2,7 @@
 <h2>Hello there👋, I'm Azizbek Shukurov</h2>
 💻 I'm currently learning JS, ReactJS<br>
 ⚡ Fun fact, I love to learning & coding programming. <br>
-💬 Ask me about web application.<br>
+💬 Ask me about web application.<br> <br>
 
 
 [![](https://visitcount.itsvg.in/api?id=azizshukurov&icon=5&color=1)](https://visitcount.itsvg.in)
