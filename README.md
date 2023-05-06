@@ -1,5 +1,5 @@
 <!-- # 💫 About Me: -->
-<h2>Hello there👋, I'm Azizbek Shukurov</h2>
+<h2>Hello there👋, I'm Azizbek!</h2>
 💻 I'm currently learning JS, ReactJS<br>
 ⚡ Fun fact, I love to learning & coding programming. <br>
 💬 Ask me about web application.<br> <br>
