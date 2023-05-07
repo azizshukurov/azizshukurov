@@ -3,9 +3,9 @@
 # Hello there👋, I'm Azizbek!
 <h3>I'm Front-end developer from Uzbekistan!</h3>
 
-<h4>💻 I'm currently learning JS, ReactJS</h4>
-<h4>⚡ Fun fact, I love to learning & coding programming.</h4>
-<h4>💬 Ask me about web application.</h4>
+<p>💻 I'm currently learning JS, ReactJS</p>
+<p>⚡ Fun fact, I love to learning & coding programming.</p>
+<p>💬 Ask me about web application.</p>
 
 
 [![](https://visitcount.itsvg.in/api?id=azizshukurov&icon=5&color=1)](https://visitcount.itsvg.in)
