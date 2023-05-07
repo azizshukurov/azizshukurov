@@ -1,8 +1,11 @@
 <!-- # 💫 About Me: -->
-<h2>Hello there👋, I'm Azizbek!</h2>
-💻 I'm currently learning JS, ReactJS<br>
-⚡ Fun fact, I love to learning & coding programming. <br>
-💬 Ask me about web application.<br> <br>
+<!-- <h2>Hello there👋, I'm Azizbek!</h2> -->
+# Hello there👋, I'm Azizbek!
+<h3>I'm Front-end developer from Uzbekistan!</h3>
+
+<h4>💻 I'm currently learning JS, ReactJS</h4>
+<h4>⚡ Fun fact, I love to learning & coding programming.</h4>
+<h4>💬 Ask me about web application.</h4>
 
 
 [![](https://visitcount.itsvg.in/api?id=azizshukurov&icon=5&color=1)](https://visitcount.itsvg.in)
