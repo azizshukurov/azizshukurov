@@ -1,8 +1,8 @@
 <h2>Hi there, I'm Azizbek Shukurov 👋</h1>
 
-💻 I'm currently learning JS, ReactJS. <br/>
-💬 Fun fact, I love to learning & coding programming. <br/>
-⚡ Ask me about web application.
+<p>💻 I'm currently learning JS, ReactJS.</p>
+<p>💬 Fun fact, I love to learning & coding programming.</p>
+<p>⚡ Ask me about web application.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azizbekshukurov) 
