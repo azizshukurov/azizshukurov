@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Azizbek Shukurov 👋</h1>
 
-<p>💻 I'm currently learning JS, ReactJS. <br/>💬 Fun fact, I love to learning & coding programming.<br/>⚡️ Ask me about web application.</p>
+<p>💻 I'm currently learning TypeScript, NextJS. <br/>💬 Fun fact, I love to learning & coding programming.<br/>⚡️ Ask me about web application.</p>
 
 [![](https://visitcount.itsvg.in/api?id=azizshukurov&icon=0&color=0)](https://visitcount.itsvg.in)
 
