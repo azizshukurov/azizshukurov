@@ -1,4 +1,3 @@
-Front-end| Back-end dev 💻💻💻, [8/19/2023 7:28 PM]
 <h1 align="center">Hi 👋, I'm Azizbek</h1>
 <h3 align="center">I'am back-end developer from Uzbekistan</h3>
 
